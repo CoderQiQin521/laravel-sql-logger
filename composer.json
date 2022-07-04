@@ -1,0 +1,17 @@
+{
+    "name": "CoderQiQin/laravel-sql-logger",
+    "description": "output sql log",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\QueryLog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CoderQiQin521",
+            "email": "coderqiqin@aliyun.com"
+        }
+    ],
+    "require": {}
+}
