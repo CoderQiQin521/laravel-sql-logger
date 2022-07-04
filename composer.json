@@ -16,11 +16,8 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CoderQiQin\\LaravelSqlLog\\ServiceProvider"
-            ],
-            "aliases": {
-                "SqlLogger": "CoderQiQin\\LaravelSqlLog\\Facades\\SqlLogger"
-            }
+                "CoderQiQin\\LaravelSqlLogger\\ServiceProvider"
+            ]
         }
     },
     "require": {}
