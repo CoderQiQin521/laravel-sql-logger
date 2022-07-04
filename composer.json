@@ -1,5 +1,5 @@
 {
-    "name": "CoderQiQin/laravel-sql-logger",
+    "name": "coder-qiqin/laravel-sql-logger",
     "description": "output sql log",
     "type": "library",
     "autoload": {
